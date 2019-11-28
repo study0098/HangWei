@@ -10,6 +10,6 @@ gensim==3.7.3
 Django==2.2.1
 pypinyin==0.35.3
 ChineseTone==0.1.4
-Pillow==6.0.0
+Pillow==6.2.0
 seaborn==0.9.0
 scikit_learn==0.21.1
