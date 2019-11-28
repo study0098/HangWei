@@ -1,0 +1,1 @@
+/bin/sh: /root/Hangwei_BackEnd/Hangwei_BackEnd/hangwei/opinion/opinion_mining/processing/gitpush.sh: Permission denied

@@ -1,0 +1,23 @@
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.890 seconds.
+Prefix dict has been built succesfully.
+['', '', '', '', '', '味道味道不错', '', '', '辣子香', '']
+['', '东西好吃', '东西好吃']
+['', '东西好吃', '牛肉咸', '东西好吃']
+['感觉不错', '']
+['', '', '牛肉一般', '价格实惠']
+['价格实惠', '']
+['东西好吃']
+['口味一般', '']
+['东西好吃']
+['东西难吃', '东西好吃', '', '东西香', '', '']
+['份量足']
+['东西好吃']
+['整体挺好']
+['东西香']
+['鸡丁不错']
+['总体印象好', '', '', '海带不错']
+['东西好吃']
+['膳食均衡', '']
+{55: [{'tag': '味道不错', 'emotion': 1}, {'tag': '辣子香', 'emotion': 1}], 57: [{'tag': '东西好吃', 'emotion': 1}, {'tag': '东西好吃', 'emotion': 1}], 60: [{'tag': '东西好吃', 'emotion': 1}, {'tag': '东西好吃', 'emotion': 1}, {'tag': '牛肉咸', 'emotion': 0}], 61: [{'tag': '感觉不错', 'emotion': 1}], 77: [{'tag': '牛肉一般', 'emotion': 0}, {'tag': '价格实惠', 'emotion': 1}], 88: [{'tag': '价格实惠', 'emotion': 1}], 101: [{'tag': '口味一般', 'emotion': 0}], 219: [{'tag': '东西难吃', 'emotion': 0}, {'tag': '东西好吃', 'emotion': 1}, {'tag': '东西香', 'emotion': 1}], 256: [{'tag': '总体印象好', 'emotion': 1}, {'tag': '海带不错', 'emotion': 1}], 558: [{'tag': '膳食均衡', 'emotion': 1}]}

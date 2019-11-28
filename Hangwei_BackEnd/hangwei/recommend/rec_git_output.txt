@@ -1,0 +1,17 @@
+[master 8eec1e8] update recommend
+ Committer: root <root@ecs-408e-0012.(none)>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+If the identity used for this commit is wrong, you can fix it with:
+
+    git commit --amend --author='Your Name <you@example.com>'
+
+ 2 files changed, 13 insertions(+), 5 deletions(-)
+ rewrite Hangwei_BackEnd/hangwei/recommend/recommend_list.pkl (100%)
+To git@codehub.devcloud.huaweicloud.com:19bkrgFree-Aznzoyyx00001/Hangwei_BackEnd.git
+   d0f1146..8eec1e8  master -> master
